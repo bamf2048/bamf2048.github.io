@@ -61,7 +61,7 @@
         var release = json[0];
         var downloadName = release.name;
         var downloadURL = release.zipball_url;
-        $("#main").append("<p>Latest release: <a href='"+release.zipball_url+"'>"+release.name+" ↴</a></p>");
+        $("#main").append("<p>Latest release: <a href='"+release.zipball_url+"'>"+release.name+" <sub>↴</sub></a></p>");
       });    
     </script>
   </body>
