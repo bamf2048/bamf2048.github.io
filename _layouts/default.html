@@ -40,6 +40,7 @@
     </div>
 
     <div id="main" role="main" class="container">
+      <h2 id="latestmame"></h2>
       {{ content }}
     </div>
 
@@ -61,7 +62,7 @@
         var release = json[0];
         var downloadName = release.name;
         var downloadURL = release.zipball_url;
-        $("#main").append("<p>Latest release: <a href='"+release.zipball_url+"'>"+release.name+" <sub>↴</sub></a></p>");
+        $("#latestmame").append("Latest release: <a href='"+release.zipball_url+"'>"+release.name+" <sub>↴</sub></a>");
       });    
     </script>
   </body>
