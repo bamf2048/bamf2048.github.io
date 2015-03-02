@@ -60,6 +60,7 @@
       $.getJSON("http://api.github.com/repos/mamedev/mame/tags").done(function (json) {
         var release = json[0];
         var downloadURL = release.name;
+        var downloadURL = release.html_url;
         $("#main").append(downloadURL);
       });    
     </script>
