@@ -72,11 +72,11 @@
         var downloadURL = release.zipball_url;
         $("#latestsnes9x").append("Latest release: <a href='"+release.zipball_url+"'>snes9x"+release.name+" <sub>↴</sub></a>");
       });    
-      $.getJSON("http://api.github.com/repos/dolphin-emu/dolphin/releases").done(function (json) {
+      $.getJSON("http://api.github.com/repos/dolphin-emu/dolphin/tags").done(function (json) {
         var release = json[0];
         var downloadName = release.name;
         var downloadURL = release.zipball_url;
-        $("#latestdolphin").append("Latest release: <a href='"+release.zipball_url+"'>"+release.name+" <sub>↴</sub></a>");
+        $("#latestdolphin").append("Latest release: <a href='"+release.zipball_url+"'>dolphin "+release.name+" <sub>↴</sub></a>");
       });    
     </script>
   </body>
