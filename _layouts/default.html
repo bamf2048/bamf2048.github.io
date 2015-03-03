@@ -41,6 +41,7 @@
 
     <div id="main" role="main" class="container">
       <h2 id="latestmame"></h2>
+      <h2 id="latestsnes9x"></h2>
       {{ content }}
     </div>
 
@@ -59,6 +60,12 @@
     
     <script>
       $.getJSON("http://api.github.com/repos/mamedev/mame/tags").done(function (json) {
+        var release = json[0];
+        var downloadName = release.name;
+        var downloadURL = release.zipball_url;
+        $("#latestmame").append("Latest release: <a href='"+release.zipball_url+"'>"+release.name+" <sub>↴</sub></a>");
+      });    
+      $.getJSON("http://api.github.com/repos/snes9xgit/snes9x/tags").done(function (json) {
         var release = json[0];
         var downloadName = release.name;
         var downloadURL = release.zipball_url;
