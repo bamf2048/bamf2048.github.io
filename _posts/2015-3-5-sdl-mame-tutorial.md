@@ -1,6 +1,6 @@
 ---
-layout: postal
-title: Tutorial: Running MAME on Mac OS X - Part 1
+layout: post
+title: Tutorial - running MAME on Mac OS X - Part 1
 published: false
 ---
 
