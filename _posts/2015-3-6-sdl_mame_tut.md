@@ -42,4 +42,4 @@ That's it for part one. Next we'll make choosing and running games a bit easier.
 [sdlmame]: http://sdlmame.lngn.net/
 [pdroms]: http://mamedev.org/roms/
 [openemu]: http://openemu.org
-[dotcommand]: http://bamf2048.github.io/mame.command
+[dotcommand]: http://bamf2048.github.io/downloads/mame.command
