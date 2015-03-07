@@ -35,6 +35,16 @@ This is a multimedia library that lets MAME display graphics, sounds and read ke
 
 ![Mame Menu](http://i.imgur.com/aYGcg5D.png)
 
+This is the very rom selection menu. Use the arrow keys and press enter to load a rom.
+
+![Game Info](http://i.imgur.com/AMEyCLY.png)
+
+Once the rom loads this screen shows up. Press left then right to continue.
+
+![Pac-man](http://i.imgur.com/RBnIMnL.png)
+
+Yay! Pac-man. Because this is an arcade game you need to insert coins. Do this by pressing 5. Then press 1 to start.
+
 There are free public domain roms [here][pdroms]. Or you can find a torrent on archive.org. The version numbers correspond to the version of MAME. The higher the version number the better - they do not have to the match your version of MAME but you have a chance of not being able to run the game. Version 0.151 is the latest available at the time of this article.
 
 That's it for part one. Next we'll make choosing and running games a bit easier.
