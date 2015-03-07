@@ -33,7 +33,7 @@ This is a multimedia library that lets MAME display graphics, sounds and read ke
 2. Put the games (zips) in the roms folder. Do not unpack the zips.
 3. Double-click the mame.command file and you should be able to run the games from the menu.
 
-[Mame Menu](http://i.imgur.com/aYGcg5D.png)
+![Mame Menu](http://i.imgur.com/aYGcg5D.png)
 
 There are free public domain roms [here][pdroms]. Or you can find a torrent on archive.org. The version numbers correspond to the version of MAME. The higher the version number the better - they do not have to the match your version of MAME but you have a chance of not being able to run the game. Version 0.151 is the latest available at the time of this article.
 
