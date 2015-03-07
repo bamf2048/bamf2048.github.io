@@ -29,4 +29,4 @@ This is a multimedia library that lets MAME display graphics, sounds and read ke
 3. Download this [file][dotcommand]
 
 
-[sdlmame] http://sdlmame.lngn.net/
+[sdlmame]: http://sdlmame.lngn.net/
