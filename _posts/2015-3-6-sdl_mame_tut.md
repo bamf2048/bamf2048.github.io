@@ -13,27 +13,27 @@ Note: SDL MAME is not user friendly; it's not a matter of double-clicking and ex
 
 This is a multimedia library that lets MAME display graphics, sounds and read keyboards and game controllers.
 
-1. Download the [SDL 2 Runtime Library for Mac OS X][sdl2] [(Direct Link)][sdl2direct]
-2. Open the DMG and you should see the SDL file
+1. Download the [SDL 2 Runtime Library for Mac OS X][sdl2] [(Direct Link)][sdl2direct].
+2. Open the DMG and you should see the SDL file.
 3. On your Mac, open the /Library/Frameworks folder:
-  1. Go to the Finder
+  1. Go to the Finder.
   2. In the menubar click Go > Go to folder...
   3. Type /Library/Frameworks
   4. Copy the SDL2 from the DMG to this folder
 
 ### Setup SDL MAME
 
-1. Download [SDL MAME for OSX][sdlmame]. You will want to download the highest version that is 64-bit. (You will also see links to MESS which is a computer and console emulator)
+1. Download [SDL MAME for OSX][sdlmame]. You will want to download the highest version that is 64-bit. (You will also see links to MESS which is a computer and console emulator).
 2. Unzip it and you'll see a bunch of folders and files.
 3. Download this [file][dotcommand] into your MAME folder. This is a file that you can double-click to run MAME.
 
 ### Game installation
 
-1. Get games
-2. Put the games (zip) in the roms folder.
-3. Double-click the mame.command file and you run the games from the menu.
+1. Get games.
+2. Put the games (zips) in the roms folder. Do not unpack the zips.
+3. Double-click the mame.command file and you should be able to run the games from the menu.
 
-There are free public domain roms [here][pdroms]. Or you can find a torrent on archive.org. The version numbers correspond to the version of MAME. Generally the roms should work on higher versions. As the MAME develelopment team debugs game drivers they may need to rename the files inside the zip or replace them completely.
+There are free public domain roms [here][pdroms]. Or you can find a torrent on archive.org. The version numbers correspond to the version of MAME. The higher the version number the better - they do not have to the match your version of MAME but you have a chance of not being able to run the game. Version 0.151 is the latest available at the time of this article.
 
 That's it for part one. Next we'll make choosing and running games a bit easier.
 
