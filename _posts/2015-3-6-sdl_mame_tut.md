@@ -5,7 +5,7 @@ title: Tutorial - Running MAME on Mac OS X - Part 1
 
 MAME is a program that "runs" or emulates a large library of arcade games. You can run MAME using [OpenEmu's Experimental version][openemu] or use the "official" version which is called SDL MAME for OS X compiled by @roni. In part 1, we'll go over how to run SDL MAME at the very barest bones.
 
-Note: SDL MAME is not user friendly; it's not a matter of double-clicking and expecting it to run. It's actually a commandline program that you run by typing in commands via the **Terminal**. Also, avoid MAME ports named MacMAME and MAME for OS X. They're easy to use by they're old, unsupported and abandoned.
+Note: SDL MAME is not user friendly; it's not a matter of double-clicking and expecting it to run. It's actually a commandline program that you run by typing in commands via the **Terminal**. Also, avoid MAME ports named MacMAME and MAME for OS X. They're easy to use but they're old, unsupported and abandoned.
 
 ## Installation
 
