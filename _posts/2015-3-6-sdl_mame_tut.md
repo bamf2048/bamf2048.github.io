@@ -37,7 +37,7 @@ This is a multimedia library that lets MAME display graphics, sounds and read ke
 
 ![Mame Menu](http://i.imgur.com/aYGcg5D.png)
 
-This is the very rom selection menu. Use the arrow keys and press enter to load a rom.
+This is the very featureless rom selection menu. Use the arrow keys and press enter to load a rom.
 
 ![Game Info](http://i.imgur.com/AMEyCLY.png)
 
