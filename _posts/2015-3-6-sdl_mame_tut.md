@@ -27,13 +27,13 @@ This is a multimedia library that lets MAME display graphics, sounds and read ke
 
 1. Download [SDL MAME for OSX][sdlmame]. You will want to download the highest version that is 64-bit. (You will also see links to MESS which is a computer and console emulator).
 2. Unzip it and you'll see a bunch of folders and files.
-3. Download this [file][mamedropbox] into your MAME folder. This is a file that you can double-click to run MAME.
+3. Download this [file][mamedropbox] and unzip it into your MAME folder. M64 is a small app that you can double-click to run MAME.
 
 ### Game installation
 
 1. Get games.
 2. Put the games (zips) in the roms folder. Do not unpack the zips.
-3. Double-click the mame.command file and you should be able to run the games from the menu.
+3. Double-click M64 app we downloaded above in step 3 and you should be able to run the games from the menu.
 
 ![Mame Menu](http://i.imgur.com/aYGcg5D.png)
 
