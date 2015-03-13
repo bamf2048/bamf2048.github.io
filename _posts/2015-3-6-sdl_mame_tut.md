@@ -27,7 +27,7 @@ This is a multimedia library that lets MAME display graphics, sounds and read ke
 
 1. Download [SDL MAME for OSX][sdlmame]. You will want to download the highest version that is 64-bit. (You will also see links to MESS which is a computer and console emulator).
 2. Unzip it and you'll see a bunch of folders and files.
-3. SDL MAME is a commandline program. To make it easier to launch [download M64][mamedropbox] and unzip it into your MAME folder. M64 is a small app that you can double-click to run SDL MAME without opening the Terminal.
+3. SDL MAME is a commandline program. To make it easier to launch, [download M64][mamedropbox] and unzip it into your MAME folder. M64 is a small app that you can double-click to run SDL MAME without opening the Terminal.
 
 ![M64 app icon](http://i.imgur.com/OfbmOew.png)
 
