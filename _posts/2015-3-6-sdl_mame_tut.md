@@ -29,6 +29,10 @@ This is a multimedia library that lets MAME display graphics, sounds and read ke
 2. Unzip it and you'll see a bunch of folders and files.
 3. Download this [file][mamedropbox] and unzip it into your MAME folder. M64 is a small app that you can double-click to run MAME.
 
+![M64 app icon](http://i.imgur.com/OfbmOew.png)
+
+This is the M64 app icon.
+
 ### Game installation
 
 1. Get games.
