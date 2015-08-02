@@ -3,6 +3,8 @@ layout: post
 title: How to play Brutal Doom on Mac OSX
 ---
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="5jmMNpn"><a href="//imgur.com/5jmMNpn">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 Doom is the classic '90s first person shooter from iD Software. 
 It was originally written for DOS and Windows.
 Brutal Doom is a mod (modification) for Doom and Doom 2 that enhances the game; 
