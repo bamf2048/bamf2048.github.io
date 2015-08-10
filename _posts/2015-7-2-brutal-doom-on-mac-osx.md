@@ -2,7 +2,7 @@
 layout: post
 title: How to play Brutal Doom on Mac OSX
 style: |
-hmtl {
+html {
 background: #000;
 color: #fff;
 }
