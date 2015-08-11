@@ -4,6 +4,7 @@ title: How to play Brutal Doom on Mac OSX
 css: |
  body { 
  background: #000; 
+ color: #aaa;
  }
 ---
 
