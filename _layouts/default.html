@@ -15,10 +15,10 @@
     <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    {% if page.style %}
-    <style type="text/css">
-      {{ page.style }}
-    </style>
+    {% if page.css %}
+      <style>
+        {{ page.css }}
+      </style>
     {% endif %}
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
