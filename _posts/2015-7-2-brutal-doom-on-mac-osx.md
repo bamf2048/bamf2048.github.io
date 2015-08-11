@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to play Brutal Doom on Mac OSX
+style: body { background: black }
 ---
 
 <iframe src="//giphy.com/embed/13LboKOZfJWC08?html5=true" width="480" height="254" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
