@@ -4,13 +4,14 @@ title: How to play Brutal Doom on Mac OSX
 css: |
  @import url(http://fonts.googleapis.com/css?family=Work+Sans:200,700);
  
- html { 
+ body { 
  background: #000; 
  color: #aaa;
  font-family: "Work Sans", sans-serif;
  }
  
  h1,h2,h3,h4,h5,h6 {
+ font-family: "Work Sans", sans-serif;
  color: #aaa;
  }
 ---
