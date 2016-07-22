@@ -36,7 +36,7 @@ This is the M64 app icon.
 ### Game installation
 
 1. Get games.
-2. Put the games (zips) in the roms folder. Do not unpack the zips.
+2. Make a roms folder if it doesn't exist. Put the games (zips) in the roms folder. Do not unpack the zips.
 3. Double-click M64 app we downloaded above in step 3 and you should be able to run the games from the menu.
 
 ![Mame Menu](http://i.imgur.com/aYGcg5D.png)
