@@ -62,4 +62,4 @@ That's it for part one. Next we'll make choosing and running games a bit easier 
 [sdlmame]: http://sdlmame.lngn.net/
 [pdroms]: http://mamedev.org/roms/
 [openemu]: http://openemu.org
-[mamedropbox]: https://www.dropbox.com/s/mdohw81iuxrj6xi/M64.zip?dl=0
+[mamedropbox]: https://github.com/bamf2048/bamf2048.github.io/releases/download/M64/M64.app.zip
