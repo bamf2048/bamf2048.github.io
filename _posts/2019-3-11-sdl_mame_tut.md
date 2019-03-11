@@ -11,3 +11,5 @@
     3. Move into that folder: `cd mame`
     4. Type `brew install mame`
     5. Type `mame -cc` to create the mame config
+3. Run MAME
+    1. In the terminal type `./mame`
