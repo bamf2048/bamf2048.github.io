@@ -7,3 +7,4 @@
   4. You will be prompted to confirm a few things... (installation of Command Line Tools for Xcode) - this is all fine
 2. Install MAME
   1. In the terminal type `brew install mame`
+  2. Type `mame -cc` to create the mame config
